@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a custom-designed 4-degree-of-freedom robotic arm built from the ground up using Solidworks, Arduino, and 3D-printed components. The goal of this project is to develop practical skills in mechanical design, embedded systems, robotics, and control algorithms, and also feel like Tony Stark
+This project is a custom-designed 4-degree-of-freedom robotic arm built from the ground up using Solidworks, Arduino, and 3D-printed components. The goal of this project is to develop practical skills in mechanical design, embedded systems, robotics, and control algorithms, and also feel like Tony Stark.
 The robot is designed to perform precise pick-and-place operations using inverse kinematics, high-torque servo motors, and a custom rack-and-pinion gripper with auto table leveling.
 
 ---
